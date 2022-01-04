@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Drefetr
+- 👀 I’m interested in <X>.
+- 🌱 I’m currently learning <Y>.
+- 💞️ I’m looking to collaborate on <Z>.
+- 📫 How to reach me: drefetr@icloud.com
