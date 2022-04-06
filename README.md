@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Drefetr
-- 👀 I’m interested in <X>.
-- 🌱 I’m currently learning <Y>.
-- 💞️ I’m looking to collaborate on <Z>.
+- 👀 I’m interested in computational modeling, procedural generation, and simulation.
+- 🌱 I’m currently learning OpenGL3.
+- 💞️ I’m looking to collaborate on proc gen.
 - 📫 How to reach me: drefetr@icloud.com
