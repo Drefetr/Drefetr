@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Drefetr
+- 👋 Hi, hello, Kia Ora. I’m @Drefetr
 - 👀 I’m interested in computational modeling, procedural generation, and simulation.
-- 🌱 I’m currently learning OpenGL3 libs.
-- 💞️ I’m looking to collaborate on proc gen.
+- 🌱 I’m currently learning/working with C++11, OpenGL & GLSL, ImGUI; graphics programming.
+- 💞️ I’m looking to collaborate on computer generated art, game automation, game dev., proc. gen., sims.
 - 📫 How to reach me: drefetr@icloud.com
