@@ -1,5 +1,5 @@
-- 👋 I’m @Drefetr
-- 👀 I’m interested in computational modeling, procedural generation, and simulation.
-- 🌱 I’m currently learning/working with C++, OpenGL & GLSL, ImGUI; graphics programming.
-- 💞️ I’m looking to collaborate on computer generated art, game automation, game dev., proc. gen., sims.
+- 👋 I’m @Drefetr (David Carey).
+- 👀 I’m interested in computational modeling, procedural generation, and simulation; computational art.
+- 🌱 I’m currently learning/working with C++, OpenGL, WebGL: doing graphics programming.
+- 💞️ I’m looking to collaborate on computer generated art, game dev., proc. gen., simulations.
 - 📫 How to reach me: drefetr@icloud.com
